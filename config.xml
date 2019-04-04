@@ -5,14 +5,14 @@
  id = "com.phonegap.app2"
  version = "1.0.0">
  
- <name> app2-Especialidad Tectnico en Programación </name>
+ <name> app3-Día mundial de la salud </name>
  
  <description>
  Aplicacion que muestra informacíon sobre la especialidad de Técnico en Programacion CBTis
  </description>
  
- <author href ="https://build.phonegap.com" email="sera9121@gmail.com">
- Serafin Lezama Cordero
+ <author href ="https://build.phonegap.com" email="lealjaquie02@gmail.com">
+ Jaquelinne Leal Villegas
  </author>
  
  <!--Personaliza la aplicacion y plataforma -->
